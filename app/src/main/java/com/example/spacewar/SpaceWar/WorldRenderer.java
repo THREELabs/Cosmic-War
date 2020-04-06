@@ -71,6 +71,9 @@ public class WorldRenderer
         }
     }
 
+
+    //For rendering the new boss
+    
     private void renderEnemies()
     {
         for (int i = 0; i< world.enemyList.size(); i++)
