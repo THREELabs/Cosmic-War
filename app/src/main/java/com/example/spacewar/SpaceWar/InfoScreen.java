@@ -46,9 +46,9 @@ public class InfoScreen extends Screen
     {
         // draw images and text
         gameEngine.drawBitmap(background, 0, 55);
-        gameEngine.drawBitmap(close, 320/2 - close.getWidth()/2, 480/2 - close.getHeight()/2 + 130);
-        title = "Guidelines" ;
-        gameEngine.drawText(font, title, 90, 90, Color.WHITE, 30);
+        gameEngine.drawBitmap(close, 320/2 - close.getWidth()/2, 518/2 - close.getHeight()/2 + 130);
+        title = "Guide" ;
+        gameEngine.drawText(font, title, 120, 90, Color.WHITE, 30);
         text1 = "Stay alive and shoot enemies to" ;
         gameEngine.drawText(font, text1, 20, 130, Color.WHITE, 18);
         text2 = "get a higher score" ;
