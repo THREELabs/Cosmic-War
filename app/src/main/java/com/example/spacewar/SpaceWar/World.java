@@ -598,6 +598,8 @@ public class World
         }
     }
 
+
+    //Create new Boss here
     private void spawnEnemyWave(int enemyBasic, int enemyShooting, int enemyShielded)
     {
         Random random = new Random();
