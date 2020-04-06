@@ -1,6 +1,6 @@
-# Space War Game - 2019
+# Cosmic War
 
-***Space War*** is a ***Shoot 'Em Up type of game for mobile devices***. The player controls a **ship** that can **shoot enemies** and **get items** to improve it along the way. In order to advance in the game, you need to **survive the waves of enemies** by destroying them, or avoiding them. The **game will end** if the ship loses all its lives, otherwise will run indefinitely and will **increase the score** based on time passed, enemies destroyed, and items picked up.
+***Cosmic War*** is a ***Shoot 'Em Up type of game for mobile devices***. The player controls a **ship** that can **shoot enemies** and **get items** to improve it along the way. In order to advance in the game, you need to **survive the waves of enemies** by destroying them, or avoiding them. The **game will end** if the ship loses all its lives, otherwise will run indefinitely and will **increase the score** based on time passed, enemies destroyed, and items picked up.
 
 ## Preview:
 <p align="center">
