@@ -582,15 +582,15 @@ public class World
     {
         if (updateCounter == 50)
         {
-            spawnEnemyWave(5, 0, 0);
+            spawnEnemyWave(5, 2, 0); // Default 5,0,0
         }
         if (updateCounter == 700)
         {
-            spawnEnemyWave(0, 5, 0);
+            spawnEnemyWave(0, 5, 0); // Default 0,5,0
         }
         if (updateCounter == 1400)
         {
-            spawnEnemyWave(0, 0, 4);
+            spawnEnemyWave(2, 2, 4); // Default 0,0,4
         }
         if (updateCounter >= 2400 && updateCounter % 750 ==0) // repeat enemy waves spawn every 12-13 seconds, after 2400 updates
         {
