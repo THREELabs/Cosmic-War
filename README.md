@@ -4,7 +4,7 @@
 
 ## Preview:
 <p align="center">
-  <img width="40%" height="40%" src="hhttp://threeskate.com/app/cosmic-war/ss-1.jpg">
+  <img width="40%" height="40%" src="http://threeskate.com/app/cosmic-war/ss-1.jpg">
   <img width="40%" height="40%" src="http://threeskate.com/app/cosmic-war/ss-2.jpg">
 </p>
 
