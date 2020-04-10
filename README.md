@@ -59,14 +59,5 @@ The score will increase when you:
 
 ## Screenshots:
 <p align="center">
-  <img width="45%" height="45%" src="http://threeskate.com/app/cosmic-war/ss-2.jpg">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/02.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/03.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/04.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/05.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/06.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/07.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/08.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/09.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/10.png">
+  <img width="45%" height="45%" src="http://threeskate.com/app/cosmic-war/ss-3.jpg">
 </p>
