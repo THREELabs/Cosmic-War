@@ -59,7 +59,7 @@ The score will increase when you:
 
 ## Screenshots:
 <p align="center">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/01.png">
+  <img width="45%" height="45%" src="http://threeskate.com/app/cosmic-war/ss-2.jpg">
   <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/02.png">
   <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/03.png">
   <img width="45%" height="45%" src="https://github.com/panaitescu-paul/SpaceWar-Game-2019/blob/master/screenshots/04.png">
